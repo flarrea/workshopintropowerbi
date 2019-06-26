@@ -7,13 +7,9 @@ El presente Curso de Análisis y Manejo de Datos con Herramientas POWER BI busca
 OBJETIVOS:
 
 Reconocer las estructuras de datos y su organización en el ambiente POWER BI.
-
 Aplicar las herramientas de modelamiento de datos en el ambiente POWER BI.
-
 Ejecutar las herramientas de integración de datos en el ambiente POWER BI.
-
 Utilizar POWER BI para organizar información y realizar consultas de datos.
-
 Valorar el potencial creativo y profesional de la utilización de POWER BI.
 
 
