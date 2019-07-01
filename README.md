@@ -22,27 +22,26 @@ Preparación del entorno:
 
 Se utilizará sistema operativo Windows 10, POWER BI Desktop, MS Access y MS Excel, además de una base de datos de prueba.
 
-Descripción del módulo:
+Los contenidos del presente curso se dividirán en 9 módulos, que son los siguientes:
 
-1. Los contenidos del presente curso se dividirán en 9 módulos, que son los siguientes:
 
-2. La revolución de los datos al alcance de todos.
+1. La revolución de los datos al alcance de todos.
 
-3. Fundamentos del diseño de modelos de datos.
+2. Fundamentos del diseño de modelos de datos.
 
-4. Importando, transformando o cargando datos a un modelo.
+3. Importando, transformando o cargando datos a un modelo.
 
-5. Modelamiento de datos.
+4. Modelamiento de datos.
 
-6. Visualizaciones de alto impacto.
+5. Visualizaciones de alto impacto.
 
-7. Dashboards y exploración avanzada de datos.
+6. Dashboards y exploración avanzada de datos.
 
-8. Integraciones de la herramienta.
+7. Integraciones de la herramienta.
 
-9. Compartir los datos.
+8. Compartir los datos.
 
-10. Cálculos avanzados con dax y time Intelligence.
+9. Cálculos avanzados con dax y time Intelligence.
 
 
 METODOLOGÍA
