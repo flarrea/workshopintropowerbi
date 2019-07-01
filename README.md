@@ -20,7 +20,7 @@ OBJETIVOS:
 
 Preparación del entorno:
 
-Se utilizará sistema operativo Windows 10, POWER BI Desktop, MS Access y MS Excel, además de una base de datos de prueba.
+Se utilizará sistema operativo Windows 10, POWER BI Desktop, MS Access y MS Excel, además de un set de datos o una base de datos de prueba.
 
 Los contenidos del presente curso se dividirán en 9 módulos, que son los siguientes:
 
